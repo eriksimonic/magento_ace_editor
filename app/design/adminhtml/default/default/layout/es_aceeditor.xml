@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="before_body_end">
+            <block name="es_aceeditor" template="es/adminhtml/aceeditor.phtml" type="core/template"></block>
+        </reference>
+    </default>
+</layout>
