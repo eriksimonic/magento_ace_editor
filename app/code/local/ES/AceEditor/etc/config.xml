@@ -5,27 +5,6 @@
             <version>0.1.0</version>
         </ES_AceEditor>
     </modules>
-    <global>
-        <models>
-            <es_aceeditor>
-                <class>es_AceEditor_Model</class>
-                <resourceModel>es_aceeditor_resource</resourceModel>
-            </es_aceeditor>
-            <es_aceeditor_resource>
-                <class>es_AceEditor_Model_Resource</class>
-            </es_aceeditor_resource>
-        </models>
-        <blocks>
-            <es_aceeditor>
-                <class>es_AceEditor_Block</class>
-            </es_aceeditor>
-        </blocks>
-        <helpers>
-            <es_aceeditor>
-                <class>es_AceEditor_Helper</class>
-            </es_aceeditor>
-        </helpers>
-    </global>
     <adminhtml>
         <layout>
             <updates>
