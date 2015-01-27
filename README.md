@@ -6,4 +6,4 @@ loaded jQuery library in the admin area.
 Licence:
 ACE Editor licence http://ace.c9.io/
 
-This extension is provied withow any warranty!
+This extension is provied withowt any warranty!
